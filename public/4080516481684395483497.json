@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869556951855",
+    "project_id": "oneplus-health-app-sync",
+    "storage_bucket": "oneplus-health-app-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869556951855:android:9e8247ab375275c5dbdfda",
+        "android_client_info": {
+          "package_name": "com.cocotbosok.onplshlthappsn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869556951855-d16ugh6vn1sor9jh8351dueokl0jegq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSUa3Ah7e2L0PR4qBmTnVKZQTpfuNjb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869556951855-d16ugh6vn1sor9jh8351dueokl0jegq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
